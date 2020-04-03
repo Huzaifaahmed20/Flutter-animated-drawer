@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# Demo
+![](demo/drawer-demo.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
