@@ -7,7 +7,7 @@ class CustomDrawer extends StatelessWidget {
       width: double.infinity,
       height: double.infinity,
       child: Material(
-        color: Colors.blue,
+        color: Colors.black87,
         child: SafeArea(
           child: Theme(
             data: ThemeData(brightness: Brightness.dark),
@@ -16,7 +16,7 @@ class CustomDrawer extends StatelessWidget {
               mainAxisSize: MainAxisSize.max,
               children: [
                 Image.asset(
-                  'assets/flutter_europe_white.png',
+                  'assets/livdevlogo.png',
                   width: 200,
                 ),
                 ListTile(

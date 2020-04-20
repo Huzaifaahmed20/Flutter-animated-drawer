@@ -19,6 +19,5 @@ class CustomScaffold extends StatelessWidget {
           )),
       body: Container(),
     );
-    ;
   }
 }
